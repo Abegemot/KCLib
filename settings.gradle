@@ -1,0 +1,2 @@
+include ':kclib'
+rootProject.name = "KCLib"
