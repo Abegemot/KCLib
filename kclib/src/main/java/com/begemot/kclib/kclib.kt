@@ -19,11 +19,11 @@ import androidx.ui.graphics.Color
 
 fun hellokclib():String="kkdkdkdk"
 
-/*@Preview
+@Preview
 @Composable
 fun Test(){
-    Text("Holas")
-}*/
+    Text("Hola")
+}
 
 
 @Preview
