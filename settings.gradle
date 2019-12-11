@@ -1,2 +1,3 @@
+include ':myPOSLIB'
 include ':kclib'
 rootProject.name = "KCLib"
