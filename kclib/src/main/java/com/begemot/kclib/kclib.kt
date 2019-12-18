@@ -22,7 +22,7 @@ import androidx.ui.input.ImeAction
 import androidx.ui.input.KeyboardType
 
 
-fun hellokclib():String="kkdkdkdk"
+fun hellokclib():String="kkdksssdkdk"
 
 
 
