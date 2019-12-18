@@ -116,7 +116,9 @@ fun DrawSquareText(dim: Dp, col: Color, text:String?){
     }
 }
 
-
+/*
+Works +- do not rely on
+*/
 fun ContrastedCol(col1:Color):Color {
     val a = 1 - (0.299 * col1.red + 0.587 * col1.green + 0.114 * col1.blue) / 255
     return if (a < 0.999) Color.Black else Color.White
