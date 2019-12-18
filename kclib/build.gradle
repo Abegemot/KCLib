@@ -37,7 +37,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
     //jcompose
     implementation "androidx.ui:ui-framework:$Deps.jcompose"
-    implementation "androidx.ui:ui-layout:$Deps.jcompose"
+    implementation "androidx.ui:ui-layout:${Deps.jcompose}"
     implementation "androidx.ui:ui-material:$Deps.jcompose"
     implementation "androidx.ui:ui-tooling:$Deps.jcompose"
     implementation "androidx.ui:ui-foundation:$Deps.jcompose"
